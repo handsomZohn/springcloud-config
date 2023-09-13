@@ -1,2 +1,2 @@
 config:
-  info: "main branch,springcloud-config/config-dev.yml version=3 management.endpoints.web.exposure.incloud=*_*" 
+  info: "main branch,springcloud-config/config-dev.yml version=3 management.endpoints.web.exposure.incloud=*_* ^_^" 
